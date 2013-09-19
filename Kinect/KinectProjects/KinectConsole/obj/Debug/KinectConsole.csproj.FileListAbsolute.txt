@@ -1,0 +1,9 @@
+C:\Users\Gabriel\Documents\GitHub\Blog\Kinect\KinectProjects\KinectConsole\bin\Debug\KinectConsole.exe.config
+C:\Users\Gabriel\Documents\GitHub\Blog\Kinect\KinectProjects\KinectConsole\bin\Debug\KinectConsole.exe
+C:\Users\Gabriel\Documents\GitHub\Blog\Kinect\KinectProjects\KinectConsole\bin\Debug\KinectConsole.pdb
+C:\Users\Gabriel\Documents\GitHub\Blog\Kinect\KinectProjects\KinectConsole\bin\Debug\KinectUtil.dll
+C:\Users\Gabriel\Documents\GitHub\Blog\Kinect\KinectProjects\KinectConsole\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Gabriel\Documents\GitHub\Blog\Kinect\KinectProjects\KinectConsole\bin\Debug\KinectUtil.pdb
+C:\Users\Gabriel\Documents\GitHub\Blog\Kinect\KinectProjects\KinectConsole\obj\Debug\KinectConsole.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Documents\GitHub\Blog\Kinect\KinectProjects\KinectConsole\obj\Debug\KinectConsole.exe
+C:\Users\Gabriel\Documents\GitHub\Blog\Kinect\KinectProjects\KinectConsole\obj\Debug\KinectConsole.pdb
