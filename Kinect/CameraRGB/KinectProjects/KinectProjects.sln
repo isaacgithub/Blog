@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KinectUtil", "KinectUtil\KinectUtil.csproj", "{6EA40B9A-793E-40F9-A1D5-0416E3754621}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KinectApp", "KinectApp\KinectApp.csproj", "{6E009A17-01AF-490A-BA85-7D94BD6D278A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EA40B9A-793E-40F9-A1D5-0416E3754621}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EA40B9A-793E-40F9-A1D5-0416E3754621}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EA40B9A-793E-40F9-A1D5-0416E3754621}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EA40B9A-793E-40F9-A1D5-0416E3754621}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E009A17-01AF-490A-BA85-7D94BD6D278A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E009A17-01AF-490A-BA85-7D94BD6D278A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E009A17-01AF-490A-BA85-7D94BD6D278A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E009A17-01AF-490A-BA85-7D94BD6D278A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

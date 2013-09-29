@@ -1,0 +1,11 @@
+C:\Users\Gabriel\Documents\GitHub\Blog\Kinect\KinectProjects\KinectUtil\bin\Debug\KinectUtil.dll
+C:\Users\Gabriel\Documents\GitHub\Blog\Kinect\KinectProjects\KinectUtil\bin\Debug\KinectUtil.pdb
+C:\Users\Gabriel\Documents\GitHub\Blog\Kinect\KinectProjects\KinectUtil\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Gabriel\Documents\GitHub\Blog\Kinect\KinectProjects\KinectUtil\obj\Debug\KinectUtil.dll
+C:\Users\Gabriel\Documents\GitHub\Blog\Kinect\KinectProjects\KinectUtil\obj\Debug\KinectUtil.pdb
+C:\Users\Gabriel\Documents\GitHub\Blog\Kinect\CameraRGB\KinectProjects\KinectUtil\bin\Debug\KinectUtil.dll
+C:\Users\Gabriel\Documents\GitHub\Blog\Kinect\CameraRGB\KinectProjects\KinectUtil\bin\Debug\KinectUtil.pdb
+C:\Users\Gabriel\Documents\GitHub\Blog\Kinect\CameraRGB\KinectProjects\KinectUtil\obj\Debug\KinectUtil.dll
+C:\Users\Gabriel\Documents\GitHub\Blog\Kinect\CameraRGB\KinectProjects\KinectUtil\obj\Debug\KinectUtil.pdb
+C:\Users\Gabriel\Documents\GitHub\Blog\Kinect\CameraRGB\KinectProjects\KinectUtil\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Gabriel\Documents\GitHub\Blog\Kinect\CameraRGB\KinectProjects\KinectUtil\obj\Debug\KinectUtil.csprojResolveAssemblyReference.cache

@@ -1,0 +1,17 @@
+C:\Users\Gabriel\Documents\GitHub\Blog\Kinect\CameraRGB\KinectProjects\KinectApp\bin\Debug\KinectApp.exe.config
+C:\Users\Gabriel\Documents\GitHub\Blog\Kinect\CameraRGB\KinectProjects\KinectApp\bin\Debug\KinectApp.exe
+C:\Users\Gabriel\Documents\GitHub\Blog\Kinect\CameraRGB\KinectProjects\KinectApp\bin\Debug\KinectApp.pdb
+C:\Users\Gabriel\Documents\GitHub\Blog\Kinect\CameraRGB\KinectProjects\KinectApp\obj\Debug\MainWindow.baml
+C:\Users\Gabriel\Documents\GitHub\Blog\Kinect\CameraRGB\KinectProjects\KinectApp\obj\Debug\MainWindow.g.cs
+C:\Users\Gabriel\Documents\GitHub\Blog\Kinect\CameraRGB\KinectProjects\KinectApp\obj\Debug\App.g.cs
+C:\Users\Gabriel\Documents\GitHub\Blog\Kinect\CameraRGB\KinectProjects\KinectApp\obj\Debug\KinectApp_MarkupCompile.cache
+C:\Users\Gabriel\Documents\GitHub\Blog\Kinect\CameraRGB\KinectProjects\KinectApp\obj\Debug\KinectApp.g.resources
+C:\Users\Gabriel\Documents\GitHub\Blog\Kinect\CameraRGB\KinectProjects\KinectApp\obj\Debug\KinectApp.Properties.Resources.resources
+C:\Users\Gabriel\Documents\GitHub\Blog\Kinect\CameraRGB\KinectProjects\KinectApp\obj\Debug\KinectApp.csproj.GenerateResource.Cache
+C:\Users\Gabriel\Documents\GitHub\Blog\Kinect\CameraRGB\KinectProjects\KinectApp\obj\Debug\KinectApp.exe
+C:\Users\Gabriel\Documents\GitHub\Blog\Kinect\CameraRGB\KinectProjects\KinectApp\obj\Debug\KinectApp.pdb
+C:\Users\Gabriel\Documents\GitHub\Blog\Kinect\CameraRGB\KinectProjects\KinectApp\bin\Debug\KinectUtil.dll
+C:\Users\Gabriel\Documents\GitHub\Blog\Kinect\CameraRGB\KinectProjects\KinectApp\bin\Debug\KinectUtil.pdb
+C:\Users\Gabriel\Documents\GitHub\Blog\Kinect\CameraRGB\KinectProjects\KinectApp\obj\Debug\KinectApp.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Documents\GitHub\Blog\Kinect\CameraRGB\KinectProjects\KinectApp\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Gabriel\Documents\GitHub\Blog\Kinect\CameraRGB\KinectProjects\KinectApp\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
