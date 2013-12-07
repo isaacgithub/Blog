@@ -1,0 +1,61 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+    <form>
+        <textarea id="texto" style="height: 100px; width:400px;"></textarea>
+        <div>
+            <input type="button" id="validateRegex" value="Validar Regex" onclick="checkEmailSintax();" />
+        </div>
+    </form>
+
+
+    <script type="text/javascript">
+        function search() {
+            var padrao = /javascript/i;
+            element = document.getElementById("texto");
+            if (element.value.search(padrao) == -1)
+                alert("Texto não encontrado");
+            else
+                alert("Texto encontrado");
+        }
+
+        function replace() {
+            var padrao = /javascript/gi;
+            element = document.getElementById("texto");
+            element.value = element.value.replace(padrao, "C++");
+        }
+
+        function removeLineBreaker() {
+            var padrao = /\n/g;
+            element = document.getElementById("texto");
+            element.value = element.value.replace(padrao, " ");
+        }
+
+        function changeDigitsFor(value) {
+            var padrao = /\d/;
+            element = document.getElementById("texto");
+            element.value = element.value.replace(padrao, value);
+        }
+
+        function checkCPFSintax()
+        {
+            var padrao = /\d{3}\.\d{3}\.\d{3}-\d{2}/;
+            element = document.getElementById("texto");
+            alert( padrao.test(element.value));
+        }
+
+        function checkEmailSintax()
+        {
+            var padrao = /^(([^<>()[\]\\.,;:\s@\"]+(\.[^<>()[\]\\.,;:\s@\"]+)*)|(\".+\"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+            element = document.getElementById("texto");
+            alert( padrao.test(element.value));
+        }
+    </script>
+
+</body>
+</html>
